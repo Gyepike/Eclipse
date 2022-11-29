@@ -5083,3 +5083,196 @@ jan. 26, 2022 16:36:03.17 NEW SESSION
 jan. 26, 2022 16:36:03.17 
 jan. 26, 2022 16:36:03.17 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 jan. 26, 2022 16:36:03.17 
+
+nov. 11, 2022 23:34:34.28 NEW SESSION
+nov. 11, 2022 23:34:34.28 [2022-11-11T22:34:34Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 11, 2022 23:34:34.28 [2022-11-11T22:34:34Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 11, 2022 23:34:34.42 [2022-11-11T22:34:34Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 11, 2022 23:34:34.42 [2022-11-11T22:34:34Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 11, 2022 23:34:34.42 [2022-11-11T22:34:34Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 11, 2022 23:36:51.64 [2022-11-11T22:36:51Z ERROR glean_core::metrics::ping] Invalid reason code startup for ping background-update
+nov. 11, 2022 23:36:53.19 [2022-11-11T22:36:53Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 11, 2022 23:36:53.19 [2022-11-11T22:36:53Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 11, 2022 23:36:53.66 [2022-11-11T22:36:53Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 11, 2022 23:36:53.66 [2022-11-11T22:36:53Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 11, 2022 23:36:53.66 [2022-11-11T22:36:53Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 11, 2022 23:36:54.27 [Parent 11176, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+nov. 17, 2022 23:05:54.94 NEW SESSION
+nov. 17, 2022 23:05:54.94 [Parent 15452, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+nov. 17, 2022 23:05:55.13 [2022-11-17T22:05:55Z ERROR glean_core::metrics::ping] Invalid reason code startup for ping background-update
+nov. 17, 2022 23:05:58.07 [2022-11-17T22:05:58Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 17, 2022 23:05:58.07 [2022-11-17T22:05:58Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 17, 2022 23:05:58.19 [2022-11-17T22:05:58Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 17, 2022 23:05:58.19 [2022-11-17T22:05:58Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 17, 2022 23:05:58.19 [2022-11-17T22:05:58Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 17, 2022 23:05:58.44 [Parent 15452, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+nov. 17, 2022 23:08:09.65 [2022-11-17T22:08:09Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 17, 2022 23:08:09.66 [2022-11-17T22:08:09Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 17, 2022 23:08:09.77 [2022-11-17T22:08:09Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 17, 2022 23:08:09.78 [2022-11-17T22:08:09Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 17, 2022 23:08:09.78 [2022-11-17T22:08:09Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 17, 2022 23:08:10.06 [Parent 18672, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+nov. 17, 2022 23:30:06.07 [2022-11-17T22:30:06Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 17, 2022 23:30:06.08 [2022-11-17T22:30:06Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 17, 2022 23:30:06.10 [Parent 20272, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+nov. 17, 2022 23:30:06.13 [2022-11-17T22:30:06Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 17, 2022 23:30:06.13 [2022-11-17T22:30:06Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 17, 2022 23:30:06.13 [2022-11-17T22:30:06Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 18, 2022 24:20:54.05 [2022-11-17T23:20:54Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 18, 2022 24:20:54.05 [2022-11-17T23:20:54Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 18, 2022 24:20:54.09 [Parent 17324, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+nov. 18, 2022 24:20:54.16 [2022-11-17T23:20:54Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 18, 2022 24:20:54.16 [2022-11-17T23:20:54Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 18, 2022 24:20:54.16 [2022-11-17T23:20:54Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 16:37:54.30 [2022-11-23T15:37:54Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 16:37:54.31 [2022-11-23T15:37:54Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 16:37:54.42 [2022-11-23T15:37:54Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 16:37:54.42 [2022-11-23T15:37:54Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 16:37:54.43 [2022-11-23T15:37:54Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 18:55:09.32 [2022-11-23T17:55:09Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 18:55:09.32 [2022-11-23T17:55:09Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 18:55:09.39 [2022-11-23T17:55:09Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 18:55:09.39 [2022-11-23T17:55:09Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 18:55:09.39 [2022-11-23T17:55:09Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 18:58:38.16 [2022-11-23T17:58:38Z ERROR glean_core::metrics::ping] Invalid reason code startup for ping background-update
+nov. 23, 2022 18:58:42.02 [2022-11-23T17:58:42Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 18:58:42.03 [2022-11-23T17:58:42Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 18:58:42.13 [2022-11-23T17:58:42Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 18:58:42.13 [2022-11-23T17:58:42Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 18:58:42.13 [2022-11-23T17:58:42Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 19:00:04.48 [2022-11-23T18:00:04Z ERROR glean_core::metrics::ping] Invalid reason code startup for ping background-update
+nov. 23, 2022 19:01:41.91 [2022-11-23T18:01:41Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 19:01:41.92 [2022-11-23T18:01:41Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 19:01:41.97 [2022-11-23T18:01:41Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 19:01:41.97 [2022-11-23T18:01:41Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 19:01:41.97 [2022-11-23T18:01:41Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 19:01:51.12 [2022-11-23T18:01:51Z ERROR glean_core::metrics::ping] Invalid reason code startup for ping background-update
+nov. 23, 2022 21:01:33.23 [2022-11-23T20:01:33Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 21:01:33.24 [2022-11-23T20:01:33Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 21:01:33.30 [2022-11-23T20:01:33Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 21:01:33.30 [2022-11-23T20:01:33Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 21:01:33.30 [2022-11-23T20:01:33Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 21:01:33.33 [Parent 17780, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+nov. 23, 2022 22:38:18.35 [2022-11-23T21:38:18Z ERROR glean_core::metrics::ping] Invalid reason code startup for ping background-update
+nov. 23, 2022 22:38:24.54 [2022-11-23T21:38:24Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 22:38:24.54 [2022-11-23T21:38:24Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 22:38:24.68 [2022-11-23T21:38:24Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 22:38:24.68 [2022-11-23T21:38:24Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 22:38:24.69 [2022-11-23T21:38:24Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 22:56:43.77 [2022-11-23T21:56:43Z ERROR glean_core::metrics::ping] Invalid reason code startup for ping background-update
+nov. 23, 2022 22:56:48.66 [2022-11-23T21:56:48Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 22:56:48.66 [2022-11-23T21:56:48Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 22:56:48.77 [2022-11-23T21:56:48Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 22:56:48.77 [2022-11-23T21:56:48Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 22:56:48.77 [2022-11-23T21:56:48Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 22:59:24.27 [2022-11-23T21:59:24Z ERROR glean_core::metrics::ping] Invalid reason code startup for ping background-update
+nov. 23, 2022 22:59:27.94 [2022-11-23T21:59:27Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 22:59:27.94 [2022-11-23T21:59:27Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 22:59:28.06 [2022-11-23T21:59:28Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 22:59:28.06 [2022-11-23T21:59:28Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 22:59:28.06 [2022-11-23T21:59:28Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 23:10:47.37 [2022-11-23T22:10:47Z ERROR glean_core::metrics::ping] Invalid reason code startup for ping background-update
+nov. 23, 2022 23:11:09.29 [2022-11-23T22:11:09Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 23:11:09.30 [2022-11-23T22:11:09Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 23:11:09.32 [Parent 25304, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+nov. 23, 2022 23:11:09.42 [2022-11-23T22:11:09Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 23:11:09.42 [2022-11-23T22:11:09Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 23:11:09.42 [2022-11-23T22:11:09Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 23:11:56.18 [2022-11-23T22:11:56Z ERROR glean_core::metrics::ping] Invalid reason code startup for ping background-update
+nov. 23, 2022 23:12:07.09 [2022-11-23T22:12:07Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 23:12:07.09 [2022-11-23T22:12:07Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 23:12:07.11 [Parent 7848, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+nov. 23, 2022 23:12:07.12 [Parent 7848, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+nov. 23, 2022 23:12:07.21 [2022-11-23T22:12:07Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 23:12:07.21 [2022-11-23T22:12:07Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 23:12:07.21 [2022-11-23T22:12:07Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 23:13:26.21 [2022-11-23T22:13:26Z ERROR glean_core::metrics::ping] Invalid reason code startup for ping background-update
+
+nov. 23, 2022 23:15:50.43 NEW SESSION
+nov. 23, 2022 23:15:50.43 [2022-11-23T22:15:50Z ERROR glean_core::metrics::ping] Invalid reason code startup for ping background-update
+nov. 23, 2022 23:15:59.02 [2022-11-23T22:15:59Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 23:15:59.03 [2022-11-23T22:15:59Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 23:15:59.13 [2022-11-23T22:15:59Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 23:15:59.13 [2022-11-23T22:15:59Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 23:15:59.13 [2022-11-23T22:15:59Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 23:16:06.14 [2022-11-23T22:16:06Z ERROR glean_core::metrics::ping] Invalid reason code startup for ping background-update
+nov. 23, 2022 23:16:10.29 [2022-11-23T22:16:10Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 23:16:10.29 [2022-11-23T22:16:10Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 23:16:10.40 [2022-11-23T22:16:10Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 23:16:10.40 [2022-11-23T22:16:10Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 23:16:10.40 [2022-11-23T22:16:10Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 23:34:02.94 [2022-11-23T22:34:02Z ERROR glean_core::metrics::ping] Invalid reason code startup for ping background-update
+nov. 23, 2022 23:34:06.92 [2022-11-23T22:34:06Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 23:34:06.93 [2022-11-23T22:34:06Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 23:34:06.95 [Parent 24864, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+nov. 23, 2022 23:34:07.04 [2022-11-23T22:34:07Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 23:34:07.04 [2022-11-23T22:34:07Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 23:34:07.04 [2022-11-23T22:34:07Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 23:34:19.61 [2022-11-23T22:34:19Z ERROR glean_core::metrics::ping] Invalid reason code startup for ping background-update
+nov. 23, 2022 23:34:26.32 [2022-11-23T22:34:26Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 23:34:26.32 [2022-11-23T22:34:26Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 23:34:26.43 [2022-11-23T22:34:26Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 23:34:26.43 [2022-11-23T22:34:26Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 23:34:26.43 [2022-11-23T22:34:26Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 23:46:51.40 [2022-11-23T22:46:51Z ERROR glean_core::metrics::ping] Invalid reason code startup for ping background-update
+nov. 23, 2022 23:46:56.92 [2022-11-23T22:46:56Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 23:46:56.92 [2022-11-23T22:46:56Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 23:46:57.04 [2022-11-23T22:46:57Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 23:46:57.04 [2022-11-23T22:46:57Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 23:46:57.04 [2022-11-23T22:46:57Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 23, 2022 23:49:55.22 [2022-11-23T22:49:55Z ERROR glean_core::metrics::ping] Invalid reason code startup for ping background-update
+nov. 24, 2022 24:28:33.11 [2022-11-23T23:28:33Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 24, 2022 24:28:33.11 [2022-11-23T23:28:33Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 24, 2022 24:28:33.18 [2022-11-23T23:28:33Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 24, 2022 24:28:33.18 [2022-11-23T23:28:33Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 24, 2022 24:28:33.18 [2022-11-23T23:28:33Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 24, 2022 24:31:37.74 [2022-11-23T23:31:37Z ERROR glean_core::metrics::ping] Invalid reason code startup for ping background-update
+nov. 24, 2022 08:48:00.17 [2022-11-24T07:48:00Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 24, 2022 08:48:00.18 [2022-11-24T07:48:00Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 24, 2022 08:48:00.24 [2022-11-24T07:48:00Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 24, 2022 08:48:00.24 [2022-11-24T07:48:00Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 24, 2022 08:48:00.24 [2022-11-24T07:48:00Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 24, 2022 09:34:45.82 [2022-11-24T08:34:45Z ERROR glean_core::metrics::ping] Invalid reason code startup for ping background-update
+nov. 24, 2022 18:22:43.89 [2022-11-24T17:22:43Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 24, 2022 18:22:43.90 [2022-11-24T17:22:43Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 24, 2022 18:22:43.92 [Parent 11148, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+nov. 24, 2022 18:22:43.98 [2022-11-24T17:22:43Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 24, 2022 18:22:43.98 [2022-11-24T17:22:43Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 24, 2022 18:22:43.98 [2022-11-24T17:22:43Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 24, 2022 21:17:00.95 [2022-11-24T20:17:00Z ERROR glean_core::metrics::ping] Invalid reason code startup for ping background-update
+nov. 24, 2022 21:18:24.32 [2022-11-24T20:18:24Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 24, 2022 21:18:24.33 [2022-11-24T20:18:24Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 24, 2022 21:18:24.38 [2022-11-24T20:18:24Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 24, 2022 21:18:24.38 [2022-11-24T20:18:24Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 24, 2022 21:18:24.39 [2022-11-24T20:18:24Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 24, 2022 21:18:49.52 [2022-11-24T20:18:49Z ERROR glean_core::metrics::ping] Invalid reason code startup for ping background-update
+nov. 24, 2022 21:19:53.00 [2022-11-24T20:19:53Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 24, 2022 21:19:53.00 [2022-11-24T20:19:53Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 24, 2022 21:19:53.06 [2022-11-24T20:19:53Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 24, 2022 21:19:53.06 [2022-11-24T20:19:53Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 24, 2022 21:19:53.06 [2022-11-24T20:19:53Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 24, 2022 21:20:14.64 [2022-11-24T20:20:14Z ERROR glean_core::metrics::ping] Invalid reason code startup for ping background-update
+nov. 24, 2022 21:50:21.72 [2022-11-24T20:50:21Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 24, 2022 21:50:21.72 [2022-11-24T20:50:21Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 24, 2022 21:50:21.77 [2022-11-24T20:50:21Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 24, 2022 21:50:21.77 [2022-11-24T20:50:21Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 24, 2022 21:50:21.77 [2022-11-24T20:50:21Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 24, 2022 21:54:27.46 [2022-11-24T20:54:27Z ERROR glean_core::metrics::ping] Invalid reason code startup for ping background-update
+nov. 24, 2022 22:47:02.83 [2022-11-24T21:47:02Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 24, 2022 22:47:02.84 [2022-11-24T21:47:02Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 24, 2022 22:47:02.91 [2022-11-24T21:47:02Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 24, 2022 22:47:02.91 [2022-11-24T21:47:02Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 24, 2022 22:47:02.91 [2022-11-24T21:47:02Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 25, 2022 18:46:15.12 [2022-11-25T17:46:15Z ERROR glean_core::metrics::ping] Invalid reason code startup for ping background-update
+nov. 25, 2022 18:52:32.07 [2022-11-25T17:52:32Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 25, 2022 18:52:32.07 [2022-11-25T17:52:32Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 25, 2022 18:52:32.13 [2022-11-25T17:52:32Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 25, 2022 18:52:32.13 [2022-11-25T17:52:32Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 25, 2022 18:52:32.13 [2022-11-25T17:52:32Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 25, 2022 18:54:17.55 [2022-11-25T17:54:17Z ERROR glean_core::metrics::ping] Invalid reason code startup for ping background-update
+nov. 25, 2022 18:55:23.91 [2022-11-25T17:55:23Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 25, 2022 18:55:23.92 [2022-11-25T17:55:23Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 25, 2022 18:55:23.98 [2022-11-25T17:55:23Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 25, 2022 18:55:23.98 [2022-11-25T17:55:23Z ERROR viaduct::backend::ffi] Missing HTTP status
+nov. 25, 2022 18:55:23.98 [2022-11-25T17:55:23Z ERROR viaduct::backend::ffi] Missing HTTP status

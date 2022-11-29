@@ -1,0 +1,15 @@
+# Created at 2022-11-17T23:43:56.312
+WARNING: An illegal reflective access operation has occurred
+
+# Created at 2022-11-17T23:43:56.312
+WARNING: Illegal reflective access by org.mockito.internal.util.reflection.ReflectionMemberAccessor (file:/C:/Users/Gyepi/.m2/repository/org/mockito/mockito-core/4.8.0/mockito-core-4.8.0.jar) to field java.util.ArrayList.elementData
+
+# Created at 2022-11-17T23:43:56.313
+WARNING: Please consider reporting this to the maintainers of org.mockito.internal.util.reflection.ReflectionMemberAccessor
+
+# Created at 2022-11-17T23:43:56.313
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+
+# Created at 2022-11-17T23:43:56.314
+WARNING: All illegal access operations will be denied in a future release
+

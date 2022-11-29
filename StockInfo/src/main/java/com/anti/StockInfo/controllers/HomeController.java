@@ -14,7 +14,7 @@ public class HomeController {
 		System.out.println("Kuki");
 		m.addAttribute("d", "Munyó & Munyi");
 		
-		return "home";
+		return "great";
 		
 	}
 }

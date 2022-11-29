@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\Gyepi\eclipse-workspace-2019-JSP\mochito-example"/>
 			<item value="C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest"/>
 			<item value="C:\Users\Gyepi\eclipse-workspace-2019-JSP\bubo2"/>
 			<item value="C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSPHello"/>
@@ -29,20 +30,17 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="com.anti.SpringSelenium"/>
-			<item value="com.anti.SimpleSpring"/>
-			<item value="com.anti.simplespring.simplespring"/>
-			<item value="com"/>
+			<item value="com.anti"/>
+			<item value="com.anti.SpringMVC"/>
+			<item value="com.anti.web"/>
 		</list>
 		<list key="groupId">
 			<item value="com.anti"/>
-			<item value="com.anti.simplespring"/>
-			<item value="com"/>
 		</list>
 		<list key="artifactId">
-			<item value="SpringSelenium"/>
-			<item value="SimpleSpring"/>
-			<item value="simplespring"/>
+			<item value="ProductWeb"/>
+			<item value="SpringMVC"/>
+			<item value="web"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -146,5 +144,23 @@
 		<item key="height" value="531"/>
 		<item key="x" value="720"/>
 		<item key="y" value="166"/>
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\Gyepi\eclipse-workspace-2019-JSP\Productparent\ProductWeb"/>
+			<item value="C:\Users\Gyepi\eclipse-workspace-2019-JSP\ProductWeb"/>
+			<item value="C:\Users\Gyepi\eclipse-workspace-2019-JSP\Productparent\producservices2"/>
+			<item value="C:\Users\Gyepi\eclipse-workspace-2019-JSP\ProductServices"/>
+			<item value="C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringBootRestService"/>
+			<item value="C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringBootRestService2"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
 	</section>
 </section>

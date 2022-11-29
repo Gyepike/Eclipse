@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aop-reference-model>
-<aop-project name="ProductServices"/>
-<aop-project name="productservices-old"/>
+<aop-project name="SpringBootStockAnalysisTool"/>
 <aop-project name="SpringSelenium"/>
+<aop-project name="examtest"/>
+<aop-project name="spring28Practice"/>
 <aop-project name="SpringTest"/>
+<aop-project name="SpringTesting"/>
+<aop-project name="SpringBootRestService"/>
+<aop-project name="StockInfo"/>
+<aop-project name="spring-databasedemo"/>
 <aop-project name="ManokHello"/>
+<aop-project name="Spring-Backend"/>
 <aop-project name="SimpleSpring"/>
 </aop-reference-model>

@@ -8,8 +8,4 @@ import org.springframework.context.annotation.Configuration;
 @ComponentScan(basePackages = "com.anti.withhoutxml2" )
 public class CollageConfig {
 
-
-	
-	
-	
 }
