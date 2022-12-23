@@ -1,17 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.util.List"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
-    <fullyQualifiedTypeName name="org.springframework.context.annotation.Scope"/>
-    <fullyQualifiedTypeName name="com.anti.dao.Laptop"/>
-    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PostMapping"/>
-    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestBody"/>
-    <fullyQualifiedTypeName name="com.anti.controller.Library"/>
-    <fullyQualifiedTypeName name="com.anti.repository.LibaryRepository"/>
-    <fullyQualifiedTypeName name="com.anti.dao.Alien"/>
-    <fullyQualifiedTypeName name="com.anti.repository.Car"/>
-    <fullyQualifiedTypeName name="com.anti.controller.GreetingController"/>
-    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Qualifier"/>
     <fullyQualifiedTypeName name="org.aspectj.lang.annotation.RequiredTypes"/>
     <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
     <fullyQualifiedTypeName name="com.anti.controller.AddResponse"/>
@@ -60,4 +48,16 @@
     <fullyQualifiedTypeName name="com.anti.bo.ProductBoImpl"/>
     <fullyQualifiedTypeName name="com.anti.dao.ProductDAO"/>
     <fullyQualifiedTypeName name="com.anti.dao.ProductDAOImpl"/>
+    <fullyQualifiedTypeName name="java.io.BufferedReader"/>
+    <fullyQualifiedTypeName name="java.io.InputStreamReader"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.Order"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="org.springframework.data.repository.PagingAndSortingRepository"/>
+    <fullyQualifiedTypeName name="org.springframework.data.domain.Pageable"/>
+    <fullyQualifiedTypeName name="com.anti.core.core.lamba.LambdaExp"/>
+    <fullyQualifiedTypeName name="java.lang.FunctionalInterface"/>
+    <fullyQualifiedTypeName name="com.anti.core.core.lamba.tesztfunctionalInterFace"/>
+    <fullyQualifiedTypeName name="com.anti.core.core.lamba.impfunctional"/>
 </qualifiedTypeNameHistroy>
