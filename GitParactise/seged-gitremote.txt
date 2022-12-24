@@ -1,0 +1,17 @@
+https://github.com/Gyepike/Eclipse.git
+
+git branch -M main
+git push -u origin main
+
+
+ git remote set-url origin https://github.com/Gyepike/Eclipse.git
+ 
+ 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
+ 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
+ 
+ git remote add origin https://github.com/Gyepike/Eclipse.git
+
+git remote -v
+
+
+/c/Users/Gyepi/eclipse-workspace-2019-JSP
